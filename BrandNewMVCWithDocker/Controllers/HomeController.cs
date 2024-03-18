@@ -22,6 +22,11 @@ namespace BrandNewMVCWithDocker.Controllers
             return View();
         }
 
+        public IActionResult Check2()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
