@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xSp+yx1CLHflvXF49yF+CtaYivw8PgVMP8KLs4rZqfLmIRL1wAfY8Mos07SLkRAZpD46VVgFElReynHyPjmPIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GRV\\source\\repos\\BrandNewMVCWithDocker\\BrandNewMVCWithDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GRV\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
+    "C:\\Users\\GRV\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.2\\microsoft.netcore.app.host.win-x64.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
